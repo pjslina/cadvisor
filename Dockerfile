@@ -1,1 +1,1 @@
-FROM google/cadvisor:v0.39.3
+FROM google/cadvisor:latest
